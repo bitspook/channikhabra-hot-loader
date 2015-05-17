@@ -1,7 +1,3 @@
-LiveUpdate.configure({
-  interceptReload: false
-});
-
 var hotLoadUrl = "http://localhost:3333";
 
 var whenHotLoaderRunning = function(cb) {
