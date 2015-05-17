@@ -3,7 +3,7 @@ Package.describe({
   version: '0.0.1',
   summary: 'Package for hot-loading code while developing meteor apps. Require meteor-hot-load npm module installed globally',
   git: '',
-  documentation: 'README.md'
+  documentation: 'readme.org'
 });
 
 Package.onUse(function(api) {
